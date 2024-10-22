@@ -1,3 +1,8 @@
+---
+dg-home: false
+dg-publish: true
+---
+
 ![[Pasted image 20241022170835.png]]
 ![[Pasted image 20241022170839.png]]
 ![[Pasted image 20241022170843.png]]

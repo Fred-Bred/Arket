@@ -1,3 +1,8 @@
+---
+dg-home: false
+dg-publish: true
+---
+
 > Forskningsspørgsmål: Hvad er korrelationen mellem stress og depression?				
 
 

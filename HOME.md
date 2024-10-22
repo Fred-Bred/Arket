@@ -1,6 +1,6 @@
 ---
-"- [ x ] dg-home": 
-"- [ x ] dg-publish":
+dg-home: true
+dg-publish: true
 ---
 # Calcument Stat *Arket*
 Generelle noter:
