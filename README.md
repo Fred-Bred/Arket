@@ -3,6 +3,8 @@ _Arket_ er et omfattende noteark og statistikværktøj udviklet af Sebastian Bec
 
 _Arket_ regner alle de tests for dig, som Excel kan udføre. Alt det som Excel ikke magter guider _Arket_ dig igennem i SPSS med (hvad jeg håber er) klare markeringer og eksempler på APA-konklusioner, som du kan kopiere og redigere, så de passer til den pågældende undersøgelse.
 
+_Arket_ findes også i en mindre kraftfuld men lettere tilgængelig website. Den findes på [calcument.netlify.app](https://calcument.netlify.app/).
+
 ## Download
 Hvis du ikke er vant til at bruge git kan du hente _Arket_ ved at trykke på filnavnet ovenfor. Derefter kan du trykke på download-ikonet ude til højre. ![Download-knap](Img.png)
 
